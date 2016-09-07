@@ -1,8 +1,11 @@
 @charset="UTF-8"
+           
+
 
 body, main, section, article, head, footer, nav, form {display: inline}
 
 h1, h2, h3, h4, p, a, body, html, main, section, nav, header, li, div, ul {Padding: 0px;  Margin: 0px}
+
 
 .banner {
 	Width: 1000px;
@@ -67,3 +70,4 @@ h1, h2, h3, h4 {
 	font-variant: small-caps;
 	font-family: "georgia", "times new roman"}
 	p {color: red}
+
