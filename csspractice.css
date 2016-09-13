@@ -7,11 +7,11 @@ body, main, section, article, head, footer, nav, form {display: inline}
 h1, h2, h3, h4, p, a, body, html, main, section, nav, header, li, div, ul {Padding: 0px;  Margin: 0px}
 
 
-.banner {
+.banner {               /*Banner Out of kilter with Main element; adjusted margin to bring in line*/
 	Width: 1000px;
-	padding: 10px;
-	margin: 10px;
-	Background-color: Red
+	padding: 10px; 
+	Background-color: Red;
+    Margin-bottom: 2px
 	}
 	
 .Lowersection {
@@ -20,16 +20,14 @@ padding: 10px;
 	margin: 0px;
 	background-color: white}
 
-#sourceCited {
-	color: blue;
-	font-style: italic
-}	
+
+/*Removed #sourcescited Identifier as relevant section removed*/
 
 form {
 	
-	
+	color: black;
 	width: 645px;
-background-color: black}
+background-color: blue}
 	
 body {
 	width: 1200px;
