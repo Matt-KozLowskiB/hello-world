@@ -1,13 +1,18 @@
 ### Portfolio
 ***
 
-Write introduction
+I am an aspiring software developer currently working my way through the last few parts of
+the curriculum at the Tech Academy in Portland, Oregon.   The coursework includes studies in popular
+and currently relevant programming languages such as SQL, Javascript, Python, and C#.  I have included
+some representative work I have done in response to projects and challenges assigned
+to me during my studies.  These examples are samples of my own work, drawing upon
+what I was taught during my time at the Tech Academy.  Prior to starting a the Tech
+Academy in August 2016, I had absolutely no background programming in any language,
+much less experience in Software Development.
 
-Check out my LinkedIn and my blog to learn more about me.
+Check out my [LinkedIn profile] to learn more about me! (http://linkedin.com/in/matt-kozlowski-8899b8122)
 
-#### HTML & CSS
-* [HTML & CSS  Examples](./HTML-CSS)
-* [CSS Login Drill](./HTML-CSS/CSS-Login-Drill)
+
 
 #### Database & SQL
 * [Database & SQL Examples](./Database-SQL)
@@ -18,8 +23,8 @@ Check out my LinkedIn and my blog to learn more about me.
 * [Login Script Drill](./JavaScript/Login-Script-Drill)
 
 #### Python
-* [Python Examples](./Python)
-* [Datetime Drill](./Python/Datetime-Drill)
+* [Python Code Samples](./Python)
+* [GUI Project](./Python/Datetime-Drill)
 
 #### C#  
 * [C# Examples](./C-Sharp)
