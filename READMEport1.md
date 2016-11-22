@@ -20,7 +20,7 @@ Check out my [LinkedIn profile] to learn more about me! (http://linkedin.com/in/
 
 #### JavaScript
 * [JavaScript Examples](./JavaScript)
-* [Login Script Drill](./JavaScript/Login-Script-Drill)
+* [Login Script Drill](/../../)
 
 #### Python
 * [Python Code Samples](./Python)
