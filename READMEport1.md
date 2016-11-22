@@ -15,8 +15,8 @@ Check out my [LinkedIn profile] to learn more about me! (http://linkedin.com/in/
 
 
 #### Database & SQL
-* [Database & SQL Examples](./Database-SQL)
-* [City Library Drill](./Database-SQL/City-Library-Drill)
+* [Database & SQL Examples](./SQL/SQL-Code-Snippets)
+* [City Library Drill](./SQL/SQL-Library-Project)
 
 #### JavaScript
 * [JavaScript Examples](./JavaScript)
@@ -24,7 +24,7 @@ Check out my [LinkedIn profile] to learn more about me! (http://linkedin.com/in/
 
 #### Python
 * [Python Code Samples](./Python)
-* [GUI Project](./Python/Datetime-Drill)
+* [GUI Project](./ProjectsI/tree/master/Python/File%20Mover%20GUI%20Program)
 
 #### C#  
 * [C# Examples](./C-Sharp)
