@@ -24,7 +24,7 @@ Check out my [LinkedIn profile] to learn more about me! (http://linkedin.com/in/
 
 #### Python
 * [Python Code Samples](./Python)
-* [GUI Project](./ProjectsI/tree/master/Python/File%20Mover%20GUI%20Program)
+* [GUI Project](../ProjectsI/tree/master/Python/File%20Mover%20GUI%20Program)
 
 #### C#  
 * [C# Examples](./C-Sharp)
